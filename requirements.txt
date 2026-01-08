@@ -1,0 +1,13 @@
+langchain-core
+langchain-openai
+langchain-tavily
+langgraph
+langcache
+python-dotenv
+redis
+langchain-community
+langsmith
+pydantic
+langchain-google-genai
+fastapi
+uvicorn
